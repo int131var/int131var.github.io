@@ -1,3 +1,5 @@
 body{
-    background-image: url(https://i.pinimg.com/600x315/f7/45/33/f745339835f3c8fe4cf6a51621fbb48d.jpg) no-repeat;
+    background-image: 
+    url(https://i.pinimg.com/600x315/f7/45/33/f745339835f3c8fe4cf6a51621fbb48d.jpg);
+    background-repeat: no-repeat;
 }
